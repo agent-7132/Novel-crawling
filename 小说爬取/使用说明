@@ -1,0 +1,10 @@
+# 下载并自动合并+清理
+python novel_downloader.py https://www.example.com/novel/1
+
+# 仅下载章节
+python novel_downloader.py https://www.example.com/novel/1 --download-only
+
+# 合并并清理现有章节
+python novel_downloader.py --merge-only
+
+仅用于https://s.ssbiqu.cc/网站

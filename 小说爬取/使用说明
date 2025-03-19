@@ -1,10 +1,6 @@
-# 下载并自动合并+清理
-python novel_downloader.py https://www.example.com/novel/1
 
-# 仅下载章节
-python novel_downloader.py https://www.example.com/novel/1 --download-only
-
-# 合并并清理现有章节
-python novel_downloader.py --merge-only
-
-仅用于https://s.ssbiqu.cc/网站
+novel_downloader仅用于https://s.ssbiqu.cc/网站
+script仅用于http://m.biquguaxs.com/网站
+script1.py   http://m.ggdwx.net/
+使用前请确保安装termux：API已及所需要的python库
+如果再pip安装python库是提示找不到链接库请不要直接安装注意termux的包管理器不同于主流的linux发行版这一点请自行百度
